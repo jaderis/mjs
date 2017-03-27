@@ -1,0 +1,4 @@
+var trans = [75, 75];
+var work = [50, 50];
+var queen = 100;
+document.write(trans + ' tran bees' + '</br>' + work + ' worker bees' + '</br>' + queen + ' queen bee');
